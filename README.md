@@ -2,7 +2,7 @@
 
 
 
-Simple analysis of the covid 19 data supplied by the *Johns Hopkins University Center for Systems Science and Engineering* ([JHU CSSE](https://github.com/CSSEGISandData/COVID-19)).  The jupyter notebook file in this repo will pull down the data and generate the information below.  The code is also available as a python file.
+Simple analysis of the covid-19 data supplied by the *Johns Hopkins University Center for Systems Science and Engineering* ([JHU CSSE](https://github.com/CSSEGISandData/COVID-19)).  The jupyter notebook file in this repo will pull down the data and generate the information below.  The code is also available as a python file.
 
 &ensp;
 
