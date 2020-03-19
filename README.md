@@ -14,7 +14,7 @@ The tables below only show the ten countries with the highest number of cases.
 
 &ensp;
 
-Estimate of the case fatality rate by country. **Remember that these numbers are artificially high because there are lots of cases that have not been reported yet.**
+Estimate of the case fatality rate by country. *Remember that these numbers are artificially high because there are lots of cases that have not been reported yet.*
 
 ![Case Fatality Rate](cfr.png)
 
