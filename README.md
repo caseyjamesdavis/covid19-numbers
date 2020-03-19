@@ -14,7 +14,7 @@ Estimate of the case fatality rate by country. **Remember that these numbers are
 
 &ensp;
 
-The tables below only the ten countries with the highest number of cases.
+The tables below only show the ten countries with the highest number of cases.
 
 &ensp;
 
