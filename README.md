@@ -14,10 +14,7 @@ The tables below only show the ten countries with the highest number of cases.
 
 &ensp;
 
-Estimate of the case fatality rate (CFR) by country. *Remember that the CFR can be skewed by the number of cases.
-
-
-artificially high because there are lots of cases that have not been reported yet.*
+Estimate of the case fatality rate (CFR) by country. *Remember that the CFR can be skewed by the number of cases.*
 
 ![Case Fatality Rate](cfr.png)
 
