@@ -10,11 +10,11 @@ Simple analysis of the covid 19 data supplied by the *Johns Hopkins University C
 
 &ensp;
 
-Estimate of the case fatality rate by country. **Remember that these numbers are artificially high because there are lots of cases that have not been reported yet.**
+The tables below only show the ten countries with the highest number of cases.
 
 &ensp;
 
-The tables below only show the ten countries with the highest number of cases.
+Estimate of the case fatality rate by country. **Remember that these numbers are artificially high because there are lots of cases that have not been reported yet.**
 
 &ensp;
 
