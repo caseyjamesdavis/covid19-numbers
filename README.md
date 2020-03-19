@@ -6,7 +6,7 @@ Simple analysis of the covid 19 data supplied by the *Johns Hopkins University C
 
 &ensp;
 
-### The purpose of this effort is to increase my own personal understanding of the pandemic.
+### The purpose of this repo is to increase my own personal understanding of the pandemic.
 
 &ensp;
 
