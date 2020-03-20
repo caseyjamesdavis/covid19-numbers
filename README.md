@@ -2,7 +2,7 @@
 
 
 
-Simple analysis of the COVID-19 data supplied by the *Johns Hopkins University Center for Systems Science and Engineering* ([JHU CSSE](https://github.com/CSSEGISandData/COVID-19)).  The jupyter notebook file in this repo will pull down the data and generate the information below.  The code is also available as a python file.
+Simple analysis of the COVID-19 data supplied by the *Johns Hopkins University Center for Systems Science and Engineering* ([JHU CSSE](https://github.com/CSSEGISandData/COVID-19)).  The jupyter notebook files in this repo will pull down the data and generate the information below.
 
 &ensp;
 
@@ -10,11 +10,7 @@ Simple analysis of the COVID-19 data supplied by the *Johns Hopkins University C
 
 &ensp;
 
-The tables below only show the ten countries with the highest number of cases.
-
-&ensp;
-
-Estimate of the case fatality rate (CFR) by country. *Remember that the CFR can be skewed by the number of cases, e.g., if the number of cases was under reported by half this would double the CFR.*
+Estimate of the case fatality rate (CFR) for the ten countries with the highest number of cases. *Remember that the CFR can be skewed by the number of cases, e.g., if the number of cases was under reported by half this would double the CFR.*
 
 ![Case Fatality Rate](cfr.png)
 
@@ -34,7 +30,13 @@ Estimate of the doubling time for **deaths** by country for the past 10 days.
 
 The number of cases vs time for select countries.
 
-![Plot of Cases vs Time](plot.png)
+![Plot of Cases vs Time](cases_countries.png)
+
+&ensp;
+
+The number of cases vs time for select Vermont and surrounding states.
+
+![Plot of Cases vs Time](cases_states.png)
 
 
 
