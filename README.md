@@ -12,31 +12,31 @@ Simple analysis of the COVID-19 data supplied by the *Johns Hopkins University C
 
 Estimate of the case fatality rate (CFR) for the ten countries with the highest number of cases. *Remember that the CFR can be skewed by the number of cases, e.g., if the number of cases was under reported by half this would double the CFR.*
 
-![Case Fatality Rate](cfr.png)
+![](cfr.png)
 
 &ensp;
 
 Estimate of the doubling time for **cases** by country for the past 10 days.
 
-![Number of Days for Cases to Double](doubling_times_cases.png)
+![](doubling_times_cases.png)
 
 &ensp;
 
 Estimate of the doubling time for **deaths** by country for the past 10 days.
 
-![Number of Days for Cases to Double](doubling_times_deaths.png)
+![](doubling_times_deaths.png)
 
 &ensp;
 
 The number of cases vs time for select countries.
 
-![Plot of Cases vs Time](cases_countries.png)
+![](cases_countries.png)
 
 &ensp;
 
-The number of cases vs time for select Vermont and surrounding states.
+The number of cases vs time for Vermont and surrounding states.
 
-![Plot of Cases vs Time](cases_states.png)
+![](cases_regional.png)
 
 
 
