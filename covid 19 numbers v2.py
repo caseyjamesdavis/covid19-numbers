@@ -56,12 +56,20 @@ calc
 # In[6]:
 
 
-case_doubling_time = ln(2)/ln(1 + cases.loc[top_ten,:].pct_change(axis='columns'))
-case_doubling_time = case_doubling_time.loc[ :, cases.columns[-10:] ]
-case_doubling_time.sort_values(by=[case_doubling_time.columns[-1]]).round(1)
+cases_doubling_time = ln(2)/ln(1 + cases.loc[top_ten,:].pct_change(axis='columns'))
+cases_doubling_time = cases_doubling_time.loc[ :, cases.columns[-10:] ]
+cases_doubling_time.sort_values(by=[cases_doubling_time.columns[-1]]).round(1)
 
 
 # In[7]:
+
+
+deaths_doubling_time = ln(2)/ln(1 + deaths.loc[top_ten,:].pct_change(axis='columns'))
+deaths_doubling_time = deaths_doubling_time.loc[ :, deaths.columns[-10:] ]
+deaths_doubling_time.sort_values(by=[deaths_doubling_time.columns[-1]]).round(1)
+
+
+# In[8]:
 
 
 get_ipython().run_line_magic('matplotlib', '')
@@ -99,7 +107,7 @@ ax.grid(True, alpha=0.25)
 plt.show()
 
 
-# In[8]:
+# In[9]:
 
 
 # pop_list = [
