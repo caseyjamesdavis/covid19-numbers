@@ -38,5 +38,12 @@ The number of cases vs time for Vermont and surrounding states.
 
 ![](cases_regional.png)
 
+&ensp;
+
+The number of cases vs time for select states.
+
+![](cases_states_select.png)
+
+
 
 
