@@ -16,13 +16,13 @@ Estimate of the case fatality rate (CFR) as a percentage for the ten countries w
 
 &ensp;
 
-Estimate of the doubling time in days for **cases** by country for the past 10 days.
+Estimate of the doubling time in days for **cases** by country over the past 10 days.
 
 ![](doubling_times_cases.png)
 
 &ensp;
 
-Estimate of the doubling time in days for **deaths** by country for the past 10 days.
+Estimate of the doubling time in days for **deaths** by country over the past 10 days.
 
 ![](doubling_times_deaths.png)
 
