@@ -14,6 +14,8 @@ Estimate of the case fatality rate (CFR) as a percentage for the ten countries w
 
 ![](cfr.png)
 
+Context: The CDC estimates that somewhere between 26,339 and 52,664 people died from the flu last year.  Let's assume that 36,500 people died last year and those death were spread out evenly over the entire year.  This would equate to 100 deaths per day.
+
 &ensp;
 
 Estimate of the doubling time in days for **cases** by country over the past 10 days.
