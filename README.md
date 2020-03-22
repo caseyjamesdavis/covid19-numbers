@@ -10,19 +10,19 @@ Simple analysis of the COVID-19 data supplied by the *Johns Hopkins University C
 
 &ensp;
 
-Estimate of the case fatality rate (CFR) for the ten countries with the highest number of cases. *Remember that the CFR can be skewed by the number of cases, e.g., if the number of cases was under reported by half this would double the CFR.*
+Estimate of the case fatality rate (CFR) as a percentage for the ten countries with the highest number of cases. *Remember that the CFR can be skewed by the number of cases, e.g., if the number of cases was under reported by half this would double the CFR.*
 
 ![](cfr.png)
 
 &ensp;
 
-Estimate of the doubling time for **cases** by country for the past 10 days.
+Estimate of the doubling time in days for **cases** by country for the past 10 days.
 
 ![](doubling_times_cases.png)
 
 &ensp;
 
-Estimate of the doubling time for **deaths** by country for the past 10 days.
+Estimate of the doubling time in days for **deaths** by country for the past 10 days.
 
 ![](doubling_times_deaths.png)
 
