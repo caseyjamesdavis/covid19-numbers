@@ -36,22 +36,13 @@ The number of cases vs time for select countries.
 
 ![](cases_countries.png)
 
-<!--
 &ensp;
-
-The number of cases vs time for Vermont and surrounding states.
-
-![](cases_regional.png)
-
-&ensp;
-
-The number of cases vs time for select states.
-
-![](cases_states_select.png)
-
-&ensp;
--->
 
 **Context:** The CDC estimates that somewhere between 26,339 and 52,664 people died from the flu last year (source: https://www.cdc.gov/flu/about/burden/index.html).  This would equate to about 100 deaths per day if we assume that 36,500 people died and those deaths were spread out evenly over the entire year.
 
+&ensp;
+
+The number of deaths per day for select countries.
+
+![](deaths_per_day.png)
 
