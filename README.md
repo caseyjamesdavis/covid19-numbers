@@ -38,7 +38,7 @@ The number of cases vs time for select countries.
 
 &ensp;
 
-**Context:** The CDC estimates that somewhere between 26,339 and 52,664 people died from the flu last year (source: https://www.cdc.gov/flu/about/burden/index.html).  This would equate to about 100 deaths per day if we assume that 36,500 people died and those deaths were spread out evenly over the entire year.
+**Context:** The CDC estimates that somewhere between 26,339 and 52,664 people died from the flu last year (source: https://www.cdc.gov/flu/about/burden/index.html).  This would equate to about 100 deaths per day if we assume that 36,500 people died and those deaths were spread out evenly over the entire year.  If we assume that the deaths are spread out over the peak months of the flu season (Dec. to March) this would equate to about 300 deaths per day.
 
 &ensp;
 
