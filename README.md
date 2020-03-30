@@ -46,3 +46,9 @@ The number of deaths per day for select countries.
 
 ![](deaths_per_day.png)
 
+
+&ensp;
+
+Treemap showing deaths per state.
+
+![](treemap_deaths_state.png)
