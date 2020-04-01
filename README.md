@@ -8,6 +8,8 @@ The jupyter notebook files in this repo will pull down the data and generate the
 
 [global](global.md)
 
+[US](us.md)
+
 &ensp;
 
 ### The purpose of this repo is to increase my own personal understanding of the pandemic.
