@@ -2,7 +2,7 @@
 
 Estimate of the case fatality rate (CFR) as a percentage for the ten countries with the highest number of cases.  The list is sorted by the CFR. *Remember that the CFR can be skewed by the number of cases, e.g., if the number of cases was under-reported by half this would double the CFR.*
 
-![](cfr.png)
+![](global_table_cfr.png)
 
 
 
@@ -10,19 +10,19 @@ Estimate of the case fatality rate (CFR) as a percentage for the ten countries w
 
 Estimate of the doubling time in days for **cases** by country over the past 14 days.
 
-![](doubling_times_cases.png)
+![](global_table_dt_cases.png)
 
 &ensp;
 
 Estimate of the doubling time in days for **deaths** by country over the past 14 days.
 
-![](doubling_times_deaths.png)
+![](global_table_dt_deaths.png)
 
 &ensp;
 
 The number of cases vs time for select countries.
 
-![](cases_countries.png)
+![](global_plot_cases.png)
 
 &ensp;
 
@@ -32,4 +32,4 @@ The number of cases vs time for select countries.
 
 The number of deaths per day for select countries.
 
-![](deaths_per_day.png)
+![](global_plot_deaths_per_day.png)
