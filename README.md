@@ -10,6 +10,6 @@ My take on the COVID-19 data supplied by the *Johns Hopkins University Center fo
 
 The jupyter notebook files in this repo will pull down the data and generate the information summarized in the links below.
 
-[Global Summary](global.md)
+[Global Summary](summary_global.md)
 
-[US Summary](us.md)
+[US Summary](summary_us.md)
