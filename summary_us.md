@@ -1,13 +1,26 @@
 # US Summary
 
-&ensp;
+CFR.
 
-Treemap showing deaths per state.
-
-![](treemap_deaths_state.png)
+![](us_table_cfr.png)
 
 &ensp;
 
-The number of cases vs time for select states.
+Doubling times for cases.
 
-![](cases_states.png)
+![](us_table_dt_cases.png)
+
+&ensp;
+
+Doubling times for deaths.
+
+![](us_table_dt_deaths.png)
+
+&ensp;
+
+Cases per 1000 residents.
+
+![](us_table_cases_per_capita.png)
+
+
+
