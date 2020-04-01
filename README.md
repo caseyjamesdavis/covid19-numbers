@@ -6,6 +6,8 @@ Simple analysis of the COVID-19 data supplied by the *Johns Hopkins University C
 
 The jupyter notebook files in this repo will pull down the data and generate the information below.
 
+[global](global.md)
+
 &ensp;
 
 ### The purpose of this repo is to increase my own personal understanding of the pandemic.
