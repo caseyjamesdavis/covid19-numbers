@@ -29,3 +29,8 @@ Cases per million residents on log scale.
 
 ![](us_plot_cases.png)
 
+&ensp;
+
+Treemap plot of deaths per state.
+
+![](us_plot_treemap_deaths.png)
