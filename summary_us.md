@@ -25,7 +25,7 @@ Cases per 1000 residents.
 
 &ensp;
 
-Cases per Million residents on log scale.
+Cases per million residents on log scale.
 
 ![](us_plot_cases.png)
 
