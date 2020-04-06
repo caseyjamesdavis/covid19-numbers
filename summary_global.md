@@ -32,6 +32,11 @@ The number of cases vs time for select countries in log form.
 
 &ensp;
 
+The number of cases per day for select countries.
+
+![](global_plot_cases_per_day.png)
+&ensp;
+
 The number of deaths per day for select countries.
 
 ![](global_plot_deaths_per_day.png)
