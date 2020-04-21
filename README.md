@@ -1,6 +1,6 @@
 # covid19-numbers
 
-![https://phil.cdc.gov/Details.aspx?pid=23312](![](us_table_cfr.png))
+![https://phil.cdc.gov/Details.aspx?pid=23312](covid_image_23312_lores.jpg)
 
 &ensp;
 
