@@ -1,5 +1,7 @@
 # covid19-numbers
 
+![https://phil.cdc.gov/Details.aspx?pid=23312](![](us_table_cfr.png))
+
 &ensp;
 
 ### The purpose of this repo is to increase my own personal understanding of the pandemic.
