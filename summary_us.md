@@ -18,7 +18,7 @@ Doubling times for deaths.
 
 &ensp;
 
-Cases per 1000 residents.
+Cases per capita.
 
 ![](us_table_cases_per_capita.png)
 
