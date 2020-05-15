@@ -1,8 +1,6 @@
 # covid19-numbers
 
-![](covid_image_23312_lores.jpg)
-
-[image source](https://phil.cdc.gov/Details.aspx?pid=23312)
+![](vt_cases_by_town_animated.gif)
 
 &ensp;
 
@@ -21,4 +19,4 @@ The jupyter notebook files in this repo will pull down the data and generate the
 Evolution of cases in Vermont
 
 
-[](vt_cases_by_town_animated.gif)
+
