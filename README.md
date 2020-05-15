@@ -1,9 +1,3 @@
-# covid19-numbers
-
-![](vt_cases_by_town_animated.gif)
-
-&ensp;
-
 ### The purpose of this repo is to increase my own personal understanding of the pandemic.
 
 &ensp;
@@ -17,6 +11,8 @@ The jupyter notebook files in this repo will pull down the data and generate the
 [US Summary](summary_us.md)
 
 Evolution of cases in Vermont
+
+![](vt_cases_by_town_animated.gif)
 
 
 
