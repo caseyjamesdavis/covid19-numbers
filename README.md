@@ -17,3 +17,8 @@ The jupyter notebook files in this repo will pull down the data and generate the
 [Global Summary](summary_global.md)
 
 [US Summary](summary_us.md)
+
+Evolution of cases in Vermont
+
+
+[](vt_cases_by_town_animated.gif)
