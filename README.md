@@ -8,7 +8,8 @@ The jupyter notebook files in this repo will pull down the data and generate the
 
 [US Summary](summary_us.md)
 
+
+The map of cases in Vermont by town has been made by collecting and merging the weekly maps posted at [healthvermont.gov](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#town)
+
 ![](vt_cases_by_town_animated.gif)
-
-
 
