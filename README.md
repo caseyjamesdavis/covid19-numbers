@@ -1,4 +1,4 @@
-### The purpose of this repo is to increase my own personal understanding of the pandemic.
+### The purpose of this repo is to increase my personal understanding of the pandemic.
 
 My take on the COVID-19 data supplied by the *Johns Hopkins University Center for Systems Science and Engineering* ([JHU CSSE](https://github.com/CSSEGISandData/COVID-19)).  The data from this source tends to be about a day behind. 
 
